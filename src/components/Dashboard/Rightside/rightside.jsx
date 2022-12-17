@@ -1,10 +1,8 @@
 import React from 'react'
 import rightside from 'rightside.css'
 
-function rightside() {
+export const rightSide = () => {
   return (
     <div>rightside</div>
   )
 }
-
-export default rightside

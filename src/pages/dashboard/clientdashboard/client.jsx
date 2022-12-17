@@ -1,11 +1,8 @@
 import React from 'react'
 import client from 'client.css'
 
-
-function client() {
+export const client =() => {
   return (
     <div>client</div>
   )
 }
-
-export default client

@@ -1,10 +1,8 @@
 import React from 'react'
 import chat from 'chat.css'
 
-function chat() {
+export const chat =() => {
   return (
     <div>chat</div>
   )
 }
-
-export default chat

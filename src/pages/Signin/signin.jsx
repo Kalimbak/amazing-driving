@@ -1,11 +1,10 @@
 import React from 'react'
 import signin from 'signin.css'
 
-
-function signin() {
+export const signIn = () =>
+ {
   return (
     <div>signin</div>
   )
 }
 
-export default signin

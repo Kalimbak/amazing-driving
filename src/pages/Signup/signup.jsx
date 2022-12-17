@@ -1,10 +1,9 @@
 import React from 'react'
 import signup from 'signup.css'
 
-function signup() {
+export const signUp = () => {
   return (
     <div>signup</div>
   )
 }
 
-export default signup

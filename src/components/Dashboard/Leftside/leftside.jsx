@@ -1,10 +1,9 @@
 import React from 'react'
 import leftside from 'leftside.css'
 
-function leftside() {
+export const leftSide = () => {
   return (
     <div>leftside</div>
   )
 }
 
-export default leftside

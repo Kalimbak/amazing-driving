@@ -1,11 +1,9 @@
 import React from 'react'
 import home from 'home.css'
 
-
-function home() {
+export const home= () =>{
   return (
     <div>home</div>
   )
 }
 
-export default home

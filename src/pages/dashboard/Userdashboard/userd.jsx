@@ -1,11 +1,9 @@
 import React from 'react'
 import userd from 'userd.css'
 
-
-function userd() {
+export const userD = () =>{
   return (
     <div>userd</div>
   )
 }
 
-export default userd

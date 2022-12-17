@@ -1,11 +1,8 @@
 import React from 'react'
 import subscription from 'subscription.css'
 
-
-function subscription() {
+export const subscription = () =>{
   return (
     <div>subscription</div>
   )
 }
-
-export default subscription
